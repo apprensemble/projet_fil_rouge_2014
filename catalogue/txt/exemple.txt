@@ -1,0 +1,11 @@
+                       Voici un exemple de document HTML
+
+   [atmpetit.gif] Voici quelques liens possibles :
+     * [1]Carte des serveurs WWW
+     * [2]Description de la grippe
+     __________________________________________________________________
+
+Références
+
+   1. http://web.urec.fr/france/france.html
+   2. file://localhost/htbin/reponse?prg=1&txt=grippe

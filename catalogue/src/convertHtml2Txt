@@ -1,0 +1,14 @@
+#!/bin/sh
+# Convert all html files to text file in an other directory
+#set -x
+
+
+# Create txt directory if not exists
+test -d "../txt" || mkdir "../txt" 
+
+for file in `ls ../html/*.html`
+do
+	newFilename=`basename $file html`txt
+	lynx -dump ${file} > ../txt/${newFilename}
+	echo création de ${newFilename}
+done

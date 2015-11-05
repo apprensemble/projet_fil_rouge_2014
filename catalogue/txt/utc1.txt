@@ -1,0 +1,68 @@
+   Non connecté. ([1]Connexion)
+   Plateforme pédagogique: Cours
+
+Vous êtes ici
+
+     * [2]UTC - Moodle
+     * / ► [3]Catégories de cours
+     * / ► Master parcours Ingénierie du développement logiciel
+
+   Rechercher des cours: ____________________ Valider
+
+   Catégories de
+   cours:[Formation Continue / Master parcours Ingénierie du développement
+    logiciel____________...]
+   Valider
+     * [4]Projet fil rouge
+          + Responsable: [5]Deshais Thomas
+     * [6]01- Informations pratiques
+          + Responsable: [7]Deshais Thomas
+     * [8]02- Chantier mémoire universitaire
+          + Responsable: [9]Deshais Thomas
+     * [10]Algorithmique avancée
+          + Responsable: [11]Moukrim Aziz
+     * [12]Gestion des données
+          + Responsable: [13]Challal Yacine
+     * [14]Langage et modélisation objet
+          + Responsable: [15]Jouglet Antoine
+     * [16]Méthodologie
+          + Responsable: [17]Alberti Pascal
+     * [18]Systèmes informatiques
+          + Responsable: [19]Ducourthial Bertrand
+
+   Rechercher des cours: ______________________________ Valider
+
+Vous êtes ici
+
+     * [20]UTC - Moodle
+     * / ► [21]Catégories de cours
+     * / ► Master parcours Ingénierie du développement logiciel
+
+   Non connecté. ([22]Connexion)
+   [23][footer_zone_logo.jpg]
+
+Références
+
+   1. http://moodle.utc.fr/login/index.php
+   2. http://moodle.utc.fr/
+   3. http://moodle.utc.fr/course/index.php
+   4. http://moodle.utc.fr/course/view.php?id=1526
+   5. http://moodle.utc.fr/user/view.php?id=9613&course=1
+   6. http://moodle.utc.fr/course/view.php?id=1399
+   7. http://moodle.utc.fr/user/view.php?id=9613&course=1
+   8. http://moodle.utc.fr/course/view.php?id=1405
+   9. http://moodle.utc.fr/user/view.php?id=9613&course=1
+  10. http://moodle.utc.fr/course/view.php?id=1389
+  11. http://moodle.utc.fr/user/view.php?id=3238&course=1
+  12. http://moodle.utc.fr/course/view.php?id=1392
+  13. http://moodle.utc.fr/user/view.php?id=915&course=1
+  14. http://moodle.utc.fr/course/view.php?id=1391
+  15. http://moodle.utc.fr/user/view.php?id=687&course=1
+  16. http://moodle.utc.fr/course/view.php?id=1388
+  17. http://moodle.utc.fr/user/view.php?id=3383&course=1
+  18. http://moodle.utc.fr/course/view.php?id=1390
+  19. http://moodle.utc.fr/user/view.php?id=423&course=1
+  20. http://moodle.utc.fr/
+  21. http://moodle.utc.fr/course/index.php
+  22. http://moodle.utc.fr/login/index.php
+  23. http://www.utc.fr/
